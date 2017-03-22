@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">trasteando</string>
+    <string name="nombreComplet">Nombre Completo*</string>
+    <string name="fechNacimient">Fecha de Nacimiento*</string>
+    <string name="tlf">Teléfono*</string>
+    <string name="mail">Email*</string>
+    <string name="decContacto">Descripción del Contacto</string>
+    <string name="botonSiguiente">Siguiente</string>
+
+
+
+    <string name="confirmarDatos">Confirmar Datos</string>
+    <string name="nombre">Tetico Manolico</string>
+    <string name="nacimiento">Fecha de Nacimiento:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="email">E-mail:</string>
+    <string name="descripcion">Descripción del Contacto:</string>
+    <string name="botoneditar">Editar Datos</string>
+
+    <string name="txtfecha">04/07/2011</string>
+    <string name="txttelefono">691533417</string>
+    <string name="txtemail">tetikohome@gmail.com</string>
+    <string name="txtdescripcion">Perro labrador rubio, de cuerpo atletico y mirada irresistible.</string>
+
+
+</resources>
